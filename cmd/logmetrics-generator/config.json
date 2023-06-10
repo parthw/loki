@@ -1,0 +1,5 @@
+{
+    "name": "levelDebug",
+    "type": "counter",
+    "logqlExpr": "{app=\"dev\"} |= \"debug\""
+}
